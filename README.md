@@ -2,7 +2,7 @@
 
 ### Some things about myself, I'm ...
 
-#### 📚 currently in my Bachelor, studying Computer Science at Ghent Univeristy
+#### 📚 currently in my Master, studying Computer Science at Ghent Univeristy
 #### 🌎 living in Belgium
 #### 📢 a native Dutch speaker, fluent in English and able to communicate in French
 #### ⌛ spending my free time hanging out with friends, doing some sports and making roadtrips

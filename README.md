@@ -2,11 +2,9 @@
 
 ### Some things about myself, I'm ...
 
-#### 📚 currently in my Master, studying Computer Science at Ghent Univeristy
+#### 📚 Master in Computer Science
 #### 🌎 living in Belgium
-#### 📢 a native Dutch speaker, fluent in English and able to communicate in French
-#### ⌛ spending my free time hanging out with friends, doing some sports and making roadtrips
-#### 🔭 currently interested in Bioinformatics and Artificial Intelligence
+#### 🔭 doing Bioinformatics and Artificial Intelligence
 <!--
 **KoenDesplenter/KoenDesplenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
